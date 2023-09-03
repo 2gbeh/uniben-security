@@ -1,0 +1,278 @@
+@charset "utf-8";
+/* CSS Document */
+.fa-user:before {
+  content:"\f007";}
+
+.fa-users:before {
+  content:"\f0c0";}
+	
+.fa-user-alt:before {
+  content:"\f406";}	
+	
+.fa-user-edit:before {
+  content:"\f4ff";}
+	
+.fa-user-cog:before {
+  content:"\f4fe";}
+	
+.fa-users-cog:before {
+  content:"\f509";}
+	
+.fa-user-graduate:before {
+  content:"\f501";}	
+	
+.fa-user-edit:before {
+  content:"\f4ff";}
+	
+.fa-user-secret:before {
+  content:"\f21b";}	
+
+.fa-user-friends:before {
+  content:"\f500";}		
+		
+.fa-eye:before {
+  content:"\f06e";}
+		
+.fa-lock:before {
+  content:"\f023";}
+	
+.fa-caret-down:before {
+  content:"\f0d7";}
+	
+.fa-home:before {
+  content:"\f015";}
+	
+.fa-chart-area:before {
+  content:"\f1fe";}		
+	
+.fa-address-book:before {
+  content:"\f2b9";}
+	
+.fa-donate:before {
+  content:"\f4b9";}
+	
+.fa-file-invoice-dollar:before {
+  content:"\f571";}	
+
+.fa-file:before {
+  content:"\f15b";}
+
+.fa-file-alt:before {
+  content:"\f15c";}
+	
+.fa-file-export:before {
+  content:"\f56e";}
+
+.fa-file-import:before {
+  content:"\f56f";}	
+	
+.fa-file-signature:before {
+  content:"\f573";}
+
+.fa-file-upload:before {
+  content:"\f574";}	
+	
+.fa-calculator:before {
+  content:"\f1ec";}	
+	
+.fa-stamp:before {
+  content:"\f5bf";}	
+	
+.fa-wheelchair:before {
+  content:"\f193";}
+	
+.fa-exclamation-triangle:before {
+  content:"\f071";}
+
+.fa-envelope:before {
+  content:"\f0e0";}
+	
+.fa-inbox:before {
+  content:"\f01c";}
+		
+.fa-server:before {
+  content:"\f233";}
+	
+.fa-database:before {
+  content:"\f1c0";}		
+	
+.fa-globe:before {
+  content:"\f0ac";}
+
+.fa-globe-africa:before {
+  content:"\f57c";}
+			
+.fa-sign-out-alt:before {
+  content:"\f2f5";}	
+		
+.fa-folder-open:before {
+  content:"\f07c";}		
+	
+.fa-refresh:before {
+  content:"\f021";}
+	
+.fa-plus:before {
+  content:"\f067";}
+	
+.fa-list:before {
+  content:"\f03a";}	
+	
+.fa-folder:before {
+  content:"\f07b";}	
+	
+.fa-print:before {
+  content:"\f02f";}	
+
+.fa-address-card:before {
+  content:"\f2bb";}		
+	
+.fa-baby:before {
+  content:"\f77c";}
+	
+.fa-paper-plane:before {
+  content:"\f1d8";}
+	
+.fa-phone:before {
+  content:"\f095";}
+
+.fa-map-marker-alt:before {
+  content:"\f3c5";}
+	
+.fa-city:before {
+  content:"\f64f";}
+	
+.fa-peace:before {
+  content:"\f67c";}
+	
+.fa-briefcase:before {
+  content:"\f0b1";}
+	
+.fa-landmark:before {
+  content:"\f66f";}
+	
+.fa-graduation-cap:before {
+  content:"\f19d";}
+	
+.fa-school:before {
+  content:"\f549";}
+	
+.fa-university:before {
+  content:"\f19c";}	
+	
+.fa-chalkboard:before {
+  content:"\f51b";}
+
+.fa-chalkboard-teacher:before {
+  content:"\f51c";}	
+	
+.fa-book:before {
+  content:"\f02d";}
+	
+.fa-book-reader:before {
+  content:"\f5da";}
+	
+.fa-bell:before {
+  content:"\f0f3";}	
+
+.fa-bookmark:before {
+  content:"\f02e";}		
+
+.fa-credit-card:before {
+  content:"\f09d";}				
+
+.fa-hands-helping:before {
+  content:"\f4c4";}
+
+.fa-handshake:before {
+  content:"\f2b5";}
+	
+.fa-desktop:before {
+  content:"\f108";}	
+	
+.fa-wheelchair:before {
+  content:"\f193";}
+	
+.fa-calendar:before {
+  content:"\f133";}
+	
+.fa-calendar-alt:before {
+  content:"\f073";}	
+	
+.fa-calendar-check:before {
+  content:"\f274";}
+
+.fa-calendar-day:before {
+  content:"\f783";}	
+	
+.fa-info-circle:before {
+  content:"\f05a";}		
+		
+.fa-female:before {
+  content:"\f182";}	
+	
+.fa-male:before {
+  content:"\f183";}
+	
+.fa-child:before {
+  content:"\f1ae";}
+	
+.fa-restroom:before {
+  content:"\f7bd";}			
+	
+.fa-building:before {
+  content:"\f1ad";}
+	
+.fa-award:before {
+  content:"\f559";}
+	
+.fa-laptop:before {
+  content:"\f109";}
+
+.fa-laptop-code:before {
+  content:"\f5fc";}
+			
+.fa-passport:before {
+  content:"\f5ab";}
+	
+.fa-fingerprint:before {
+  content:"\f577";}
+	
+.fa-signature:before {
+  content:"\f5b7";}
+	
+.fa-balance-scale:before {
+  content:"\f24e";}	
+	
+.fa-gavel:before {
+  content:"\f0e3";}
+	
+.fa-mask:before {
+  content:"\f6fa";}	
+	
+.fa-meh:before {
+  content:"\f11a";}
+	
+.fa-phone-square:before {
+  content:"\f098";}		
+	
+.fa-transgender:before {
+  content:"\f224";}
+
+.fa-transgender-alt:before {
+  content:"\f225";}
+
+.fa-trash:before {
+  content:"\f1f8";}
+
+.fa-trash-alt:before {
+  content:"\f2ed";}	
+					
+					
+.fa-pen:before {
+  content:"\f304";}
+
+.fa-pen-alt:before {
+  content:"\f305";}
+
+.fa-pencil-alt:before {
+  content:"\f303";}					

@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* PRIMARY */
+aside section.menu ul li a.focus {
+	background-color:#555;}
+	
+form.tmp-form label {
+	color:#555;}
+	
+form.tmp-form input:focus  {
+	border-color:#555;}	
+
+
+/* ACCENT */
+form.tmp-form button.pri, 
+aside section.menu ul li a.focus {
+	background-color:#910299;}
+
+header h2, 
+form.tmp-form button.pri:hover, 
+nav ul li a {
+	color:#910299;}	
+	
+header, 
+form.tmp-form button.pri, 
+
+aside section.menu ul li a.focus {
+	border-color:#910299;}	
+	
+	
+
+
+	
